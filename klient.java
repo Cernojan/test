@@ -1,9 +1,8 @@
-package game;
+//package game;
 import java.io.*;
 import java.net.*;
 import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-
+import javax.swing.JOptionPane;/*sssssssssssssssssssssssmrdim*/
 /**
  * Klient zajistujici pripojeni a obsluze spojeni se serverem 
  * @author Michael Hadacek A11B0359P
